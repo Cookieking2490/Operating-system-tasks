@@ -1,0 +1,3 @@
+Hello this a test file, for word frequency count.
+The word test should, be repeated three, times this text.
+This the last test, your welcome
